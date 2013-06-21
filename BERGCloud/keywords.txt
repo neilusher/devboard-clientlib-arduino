@@ -1,0 +1,12 @@
+# Syntax Coloring Map for BERGCloud
+
+# Datatypes (KEYWORD1)
+BERGCloud	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+end	KEYWORD2
+pollForCommand	KEYWORD2
+sendEvent	KEYWORD2
+
+# Constants (LITERAL1)
